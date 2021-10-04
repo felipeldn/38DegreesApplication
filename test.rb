@@ -6,8 +6,22 @@
 
 def peoplePower
     
-    (1..100).each {|n| puts n}
+    numbers = (1..100)
+    
+    numbers.each {|n| 
+       
+        if n % 3 == 0 
+            puts "People"
+        elsif n % 5 == 0
+            puts "power"
+        elsif 
+            puts n
+        end
+    
+    }
     
 end
 
 peoplePower
+
+# n if n % 3 != 0
