@@ -11,7 +11,7 @@ def peoplePower
     numbers.each {|n| 
        
         if n % 3 == 0 && n % 5 == 0
-            puts "People power!"
+            puts "People power"
         elsif n % 3 == 0 
             puts "People"
         elsif n % 5 == 0
