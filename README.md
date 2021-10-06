@@ -4,7 +4,7 @@
 
 The file within this directory called `test.rb` contains the solution to the problem described below:
 
-'Please write a Ruby programme which will print the numbers 1 to 100 on separate lines, except for if the number is divisible by 3, in which case it should print ‘People’, or if it is divisible by 5, in which case it should print ‘Power’. If the number is divisible by both 3 and 5 then it should print ‘People Power’.'
+**'Please write a Ruby programme which will print the numbers 1 to 100 on separate lines, except for if the number is divisible by 3, in which case it should print ‘People’, or if it is divisible by 5, in which case it should print ‘Power’. If the number is divisible by both 3 and 5 then it should print ‘People Power’.'**
 
 This solution has been provided as part of the application process for the role of Campaign Technologist (Ruby Developer).
 
