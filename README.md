@@ -35,7 +35,7 @@ An API is a software intermediary that allows two applications to communicate wi
 
 **4.) What does the proverb “Don’t let the perfect be the enemy of the good” mean to you in the context of software development?**
 
-To me, this means that the best solutions usually lend themselves to be broken down into digestible steps/chunks. One of the things I struggled with as I began my coding journey, was trying to immediately think of a perfect, finely-tuned solution before diving as far as I could into the problem. Often times, a much more efficient process would be to arrive at a solution which is efficient and does the required task, and then building on/refactoring from there. 
+To me, this means that the best solutions usually lend themselves to being broken down into digestible steps/chunks. One of the things I struggled with as I began my coding journey, was trying to immediately think of a perfect, finely-tuned solution before diving as far as I could into the problem. Often times, a much more efficient process would be to arrive at a solution which is efficient and does the required task, and then building on/refactoring from there. 
 
 **5.) What do you think are the key ethical responsibilities of a software developer?**
 
