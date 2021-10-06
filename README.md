@@ -12,7 +12,7 @@ To run this program:
 ***
 
 * Clone this repository
-* Within your terminal, navigate to the folder where you've saved this repo and enter 'ruby test.rb'
+* Within your terminal, navigate to the folder where you've saved this repo and enter `ruby test.rb`
 * See terminal for results
 
 ## Answers to the following questions included in the application process are also included below:
