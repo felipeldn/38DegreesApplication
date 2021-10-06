@@ -1,6 +1,6 @@
 # 38 Degrees Campaign Technologist (Ruby Developer) Application
 
-![](Campaign Technologist.png?raw=true)
+![alt text](/CampaignTechnologist.png)
 
 The file within this directory called 'test.rb' contains the solution to the problem described below:
 
