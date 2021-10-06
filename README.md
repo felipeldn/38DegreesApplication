@@ -25,7 +25,7 @@ My least favourite project thus far has been a 'reading tracker' which I named '
 
 **2.) What are the key skills and lessons you’ve learned from them that would help you in this job?**
 
-Patience, resilience, persistence, grit, tenacity and dilligence.
+Patience, resilience, persistence, grit, tenacity and diligence.
 
 As far as technical skills, both these projects were much more challenging on the frontend. Diving deeper into JavaScript expressions, JSX, React Components, State and Props was definitely a challenge, but a fun one. 
 
